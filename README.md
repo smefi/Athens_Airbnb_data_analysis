@@ -13,6 +13,6 @@ Monastiraki, Thiseio, and Plaka are the neighborhoods with the most expensive li
 Finally, March is the month with the lowest average prices.
 
 
-The code is written in Python, in Jypyter notebook.
+The code is written in Python 3.7.6, in Jupyter Notebook.
 
-The libraries used are Modin and numpy?
+Libraries used: Modin.Pandas 0.7.3, Matplotlib 3.1.3.
